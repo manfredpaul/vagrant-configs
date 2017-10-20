@@ -1,0 +1,7 @@
+{
+  "ClusterStackVersions": {
+    "stack": "HDP",
+    "version": "2.6",
+    "repository_version": "2.6.2.0-205"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "RepositoryVersions": {
+    "display_name": "HDP-2.6.2.0",
+    "repository_version": "2.6.2.0-205"
+  },
+  "operating_systems": [
+    {
+      "OperatingSystems": {
+        "os_type": "redhat6"
+      },
+      "repositories": [
+        {
+          "Repositories": {
+            "base_url": "http://repo.hdp.local/hdp/centos6/HDP-2.6.2.0",
+            "repo_id": "HDP-2.6",
+            "repo_name": "HDP"
+          }
+        },
+        {
+          "Repositories": {
+            "base_url": "http://repo.hdp.local/hdp/centos6/HDP-UTILS-1.1.0.21",
+            "repo_id": "HDP-UTILS-1.1.0.21",
+            "repo_name": "HDP-UTILS"
+          }
+        }
+      ]
+    }
+  ]
+}
